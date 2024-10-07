@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Environment
+.flask
+
+node_modules/
+
 # Distribution / packaging
 .Python
 build/
